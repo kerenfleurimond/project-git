@@ -1,2 +1,1 @@
-My project
-Ajoute une ligne a mon fichier
+Ligne modifiée sur update-index
